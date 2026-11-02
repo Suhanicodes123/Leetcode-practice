@@ -4,3 +4,6 @@ for(int = i; i<=min(n1,n2); i--){
         break;
     }
 }
+
+//euclidian algo
+//gcd(a, b)= gcd(a-b, b)....

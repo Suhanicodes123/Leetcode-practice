@@ -1,5 +1,5 @@
 void func(i, n){
-    if(i<n) return;
+    if(i<1) return;
     cout<<"i";
     func(i-1,n);
 }

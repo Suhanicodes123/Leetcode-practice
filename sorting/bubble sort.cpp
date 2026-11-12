@@ -23,3 +23,6 @@ int main(){
     }
     return 0;
 }
+
+TC=o(n*2)//worst and average
+o(n)//best

@@ -17,7 +17,7 @@ void selection_sort(int arr[], int n){
     }
 }
 
-iny main(){
+int main(){
     int n;
     cin>>n;
     int arr[n];

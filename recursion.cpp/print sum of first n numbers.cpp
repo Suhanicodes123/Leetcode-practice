@@ -25,4 +25,4 @@ int main{
     cin>>n;
     cout<<sum(n);
 
-}
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd                                                                                                                                                                               
